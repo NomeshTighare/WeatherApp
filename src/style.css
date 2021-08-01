@@ -1,0 +1,48 @@
+.active
+{
+    background-color: rgb(160, 58, 255)!important;
+    border-radius: 7px!important;
+}
+.navbar
+{
+    background-color: rgb(155, 219, 200)!important;
+    margin: 1%;
+}
+.nav-link
+{
+    margin-right: 5%!important;
+}
+
+
+.nav-link:hover
+{
+    background-color: rgb(160, 58, 255)!important;
+    border-radius: 7px!important;
+}
+
+.my-slide-img{
+    height: 500px!important;
+}
+
+.navbarnext{
+    margin-left: 10%;  
+}
+
+.rounded{
+    border-radius: 5px!important;
+}
+
+
+.box{
+    width: 150px;
+    height:250px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(245, 239, 239);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    border-radius: 10px;
+box-shadow: 15px 15px 20px rgba(0,0,0,0.15);
+}
